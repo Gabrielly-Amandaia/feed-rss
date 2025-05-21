@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
@@ -10,11 +10,13 @@
 
   <item>
     <title></title>
-    <link>https://mandusocial.org/artigos/</link>
+    <link>
+      https://mandusocial.org/artigos/
+    </link>
     <guid isPermaLink="false">-YYYY-05-May 21, 2025</guid>
     <author>contato@mandusocial.org (Mandu)</author>
     <category>Transformação</category>
-    <pubDate>2025-05-21T13:11:47.932-04:00</pubDate>
+    <pubDate>2025-05-21T13:25:45.915-04:00</pubDate>
 
     <description><![CDATA[
       
@@ -24,29 +26,14 @@
       <h2>Introdução</h2>
       <p></p>
 
-      
+      <h2></h2>
+      <p></p>
 
-      <h3>Meta (em JSON)</h3>
-      <pre>{
-  "article": {
-    "title": "O Poder do Silêncio: Como o Futuro se Abre com a Perseverança",
-    "introduction": "No mundo movimentado em que vivemos, muitas vezes associamos o sucesso e o progresso ao barulho e à agitação. No entanto, a verdade é que nem toda força faz barulho. Às vezes, é na quietude e na perseverança que encontramos o poder de transformar nossas vidas e alcançar nossos objetivos. Neste artigo, exploraremos como o futuro se abre quando optamos por permanecer firmes em nossos propósitos, mesmo diante dos desafios e adversidades.",
-    "sections": [
-      {
-        "title": "A Importância da Persistência",
-        "content": "A persistência é uma qualidade fundamental para quem deseja alcançar o sucesso. Muitas vezes, nos deparamos com obstáculos que podem nos desmotivar e nos fazer duvidar de nossas habilidades. No entanto, é justamente na persistência que encontramos a força para superar esses desafios e alcançar nossos objetivos. Quando permanecemos firmes em nossos propósitos, estamos dando um passo em direção ao futuro que desejamos construir."
-      },
-      {
-        "title": "O Silêncio como Aliado",
-        "content": "Assim como nem toda força faz barulho, nem toda vitória é acompanhada por grandes alardes. O silêncio pode ser um aliado poderoso em nossa jornada rumo ao sucesso. Ao mantermos o foco em nossos objetivos, sem nos deixarmos distrair pelo barulho externo, somos capazes de concentrar nossa energia e criatividade naquilo que realmente importa. É no silêncio da perseverança que muitas vezes encontramos as respostas de que tanto precisamos."
-      },
-      {
-        "title": "Conclusão",
-        "content": "Em um mundo cheio de distrações e ruídos, é importante lembrarmos que o verdadeiro poder muitas vezes reside na calma e na determinação. Nem toda força faz barulho, e nem toda mudança é imediata. Ao escolhermos permanecer, mesmo quando tudo parece incerto, estamos dando espaço para que o futuro se abra diante de nós. Com persistência e silêncio, somos capazes de alcançar grandes feitos e construir o caminho para uma vida plena e realizada."
-      }
-    ]
-  }
-}</pre>
+      <h2></h2>
+      <p></p>
+
+      <h2></h2>
+      <p></p>
     ]]></content:encoded>
   </item>
 
