@@ -1,12 +1,57 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<rss version="2.0"> <channel>   
-<title>Feed de Artigos da Mandu</title>   <link>https://mandu.org</link>   <description>Transcrições em formato de artigo com foco em ancestralidade, inovação e transformação</description>   
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
-<!-- Artigo gerado -->  
-<item>     
-<title>Guardiã dos Saberes: A Força da Ancestralidade e a Energia do Futuro</title>     <link>https://mandu.org/artigos/guardia-dos-saberes</link>   
-<description><![CDATA[ [object Object]]]></description>  
-<pubDate>Fri, 16 May 2025 18:00:00 GMT</pubDate>   </item>  
+<channel>
+  <title>Feed de Artigos da Mandu</title>
+  <link>https://mandusocial.org</link>
+  <description>Transcrições de meensagens da Amanda de incentivo em formato de artigo </description>
+  <language>pt-BR</language>
+
+  <item>
+    <title>O Poder do Silêncio: Como o Futuro se Revela na Quietude</title>
+    <link>https://mandusocial.org/artigos/o-poder-do-silêncio:-como-o-futuro-se-revela-na-quietude</link>
+    <guid isPermaLink="false">O Poder do Silêncio: Como o Futuro se Revela na Quietude-YYYY-05-May 21, 2025</guid>
+    <author>contato@mandusocial.org (Mandu)</author>
+    <category>Transformação</category>
+    <pubDate>2025-05-21T12:59:21.604-04:00</pubDate>
+
+    <description><![CDATA[
+      [object Object]
+    ]]></description>
+
+    <content:encoded><![CDATA[
+      <h2>Introdução</h2>
+      <p>[object Object]</p>
+
+      
+
+      <h3>Meta (em JSON)</h3>
+      <pre>{
+  "title": "O Poder do Silêncio: Como o Futuro se Revela na Quietude",
+  "introduction": {
+    "text": "No turbilhão do cotidiano, muitas vezes somos levados a acreditar que apenas a ação ruidosa e visível é capaz de promover mudanças significativas. No entanto, a reflexão nos ensina que nem toda força faz barulho e que, por vezes, o silêncio se revela como a fonte de maior transformação. Surge então a pergunta: como o futuro se abre quando optamos por permanecer, em vez de agir de forma imediata?"
+  },
+  "body": {
+    "section1": {
+      "title": "O Poder da Contemplação",
+      "content": "Ao contemplarmos de forma calma e profunda as situações que nos cercam, somos capazes de enxergar além do óbvio, identificando oportunidades e caminhos que passariam despercebidos em meio à agitação. É na quietude que a mente se expande, permitindo conexões criativas e insights reveladores."
+    },
+    "section2": {
+      "title": "A Arte da Persistência Tranquila",
+      "content": "Permanecer, quando o impulso é agir precipitadamente, requer uma dose de coragem e confiança no processo. É na persistência tranquila que se cultiva a paciência e a resiliência necessárias para suportar as incertezas e os desafios que surgem no caminho. Ao confiar no tempo e no espaço que o silêncio oferece, nos abrimos para o fluir natural do destino."
+    },
+    "section3": {
+      "title": "A Revelação do Futuro",
+      "content": "É quando optamos por permanecer, absorvendo o momento presente sem a pressa de interferir, que o futuro se revela em sua plenitude. Ao tirar o foco da ansiedade pelo que virá e nos dedicarmos à serenidade do agora, somos capazes de vislumbrar as possibilidades que se aproximam com clareza e discernimento. O silêncio, então, se torna o portal para um futuro repleto de promessas e potenciais realizados."
+    }
+  },
+  "conclusion": {
+    "text": "Em um mundo marcado pela urgência e pelo excesso de ruído, lembrar que nem toda força faz barulho e que o futuro se abre quando optamos por permanecer, é um convite à sabedoria e à introspecção. Que possamos aprender a valorizar o poder do silêncio e da contemplação, confiantes de que, muitas vezes, é na quietude que as maiores revoluções são gestadas."
+  }
+}</pre>
+    ]]></content:encoded>
+  </item>
 
 </channel>
-</rss> 
+</rss>
